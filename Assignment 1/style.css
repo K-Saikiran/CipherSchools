@@ -1,0 +1,8 @@
+#Wrapper{
+    text-align: center;
+}
+
+#Start-button, #Stop-button, #Reset-button{
+    padding: 5px 13px;
+    margin: 5px; 
+}
