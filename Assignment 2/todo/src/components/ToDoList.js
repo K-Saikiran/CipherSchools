@@ -10,7 +10,6 @@ const TodoList = ({ todolist, deleteHandler }) => {
             {todo} &nbsp;{" "}
             <button
               className="btn btn-danger"
-              bsSize="small"
               onClick={() => deleteHandler(index)}
             >
               Delete
